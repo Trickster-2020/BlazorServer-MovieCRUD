@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BlazorServer-MovieCRUD\\MovieCRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieCRUD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MovieCRUD.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\BlazorServer-MovieCRUD\\MovieCRUD\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\BlazorServer-MovieCRUD\\MovieCRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BlazorServer-MovieCRUD\\MovieCRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BlazorServer-MovieCRUD\\MovieCRUD\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MovieCRUD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MovieCRUD.props",
+      "PackagePath": "build\\MovieCRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieCRUD.props",
+      "PackagePath": "buildMultiTargeting\\MovieCRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MovieCRUD.props",
+      "PackagePath": "buildTransitive\\MovieCRUD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
